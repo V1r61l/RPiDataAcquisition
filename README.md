@@ -1,2 +1,2 @@
 # RPiDataAcquistition-
-Raspberry pi Data Sensors Data Acquistion from SenseHAT board
+Raspberry Pi Data Sensors Data Acquistion from SenseHAT board
